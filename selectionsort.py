@@ -21,5 +21,4 @@ if __name__ == "__main__":
     example = [64, 34, 25, 12, 22, 11, 90]
     print(f"Original: {example}")
     sorted_result = selection_sort(example)
-    print(f"Original: {example}")
     print(f"Sorted:   {sorted_result}")
